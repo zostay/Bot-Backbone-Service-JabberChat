@@ -1,0 +1,4 @@
+{{$NEXT}}
+
+    * Extracted from Bot::Backbone to install as a separate module.
+    * Initial release.
